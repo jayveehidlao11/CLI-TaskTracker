@@ -1,0 +1,13 @@
+{
+    "list": {
+        "T1": "simple task",
+        "T2": "simpe task2",
+        "T3": "simple task2"
+    },
+    "task-flow": {
+        "done": [],
+        "on-progress": {
+            "O1": "simpe task2"
+        }
+    }
+}
